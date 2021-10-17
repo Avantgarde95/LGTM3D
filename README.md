@@ -1,18 +1,19 @@
 # LGTM3D
 
-- Unity project for generating 3D LGTM (Looks Good To Me) animations
+Unity project for generating 3D LGTM (Looks Good To Me) animations
+
+Since this project is just for generating the gifs, qualities of project & code are not good.
 
 ### Scenes
 
 - Balls
 
-![LGTMBalls](./Results/LGTMBalls.gif)
+![Balls](./Results/Balls.gif)
 
 - Maze
 
-(GIF will be uploaded)
+![Maze](./Results/Maze.gif)
 
 - Tunnel
 
-![LGTMTunnel](./Results/LGTMTunnel.gif)
-
+![Tunnel](./Results/Tunnel.gif)
