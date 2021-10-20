@@ -17,3 +17,8 @@ Since this project is just for generating the gifs, qualities of project & code 
 - Tunnel
 
 ![Tunnel](./Results/Tunnel.gif)
+
+- Mirror
+
+![Mirror](./Results/Mirror.gif)
+
